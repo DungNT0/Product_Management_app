@@ -1,0 +1,14 @@
+.product_types {
+    font-weight: bold;
+    text-align: right;
+}
+.red_prdct {
+    color: red;
+}
+.products {
+    text-align: left;
+}
+
+th {
+    width: 140px;
+}
